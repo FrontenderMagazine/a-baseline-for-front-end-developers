@@ -249,6 +249,13 @@ w3schools.
 пользоваться на уровне эксперта или хотя бы любителя, единственный верный
 способ научиться что-то делать — [начать пробовать это делать][35]. Удачи вам.
 
+<section class="gratitude-block gratitude-block-ok">
+  <a title="Ссылка на блог компании" href="http://weareok.ru/">
+    <img src="img/ok.svg" alt="Логотип компании «Одноклассники»">
+  </a>
+  <p>Статья переведена благодаря спонсорской поддержке компании «<a title="Ссылка на блог компании" href="http://weareok.ru/">Одноклассники</a>».</p>
+</section>
+
 [1]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
 [2]: http://eloquentjavascript.net/
 [3]: https://github.com/rmurphey/js-assessment
