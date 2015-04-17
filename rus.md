@@ -249,7 +249,7 @@ w3schools.
 пользоваться на уровне эксперта или хотя бы любителя, единственный верный
 способ научиться что-то делать — [начать пробовать это делать][35]. Удачи вам.
 
-<section class="gratitude-block gratitude-block-ok">
+<section class="gratitude-block gratitude-block-ok2">
   <a title="Ссылка на блог компании" href="http://weareok.ru/">
     <img src="img/ok.svg" alt="Логотип компании «Одноклассники»">
   </a>
