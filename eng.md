@@ -120,7 +120,7 @@ There are a few command line tasks you should be able to do without thinking:
 
 * `ssh` to log in to another machine or server
 * `scp` to copy files to another machine or server
-* `ack` or `grep` to find files in a project that contain a string or pattern
+* `awk` or `grep` to find files in a project that contain a string or pattern
 * `find` to locate files whose names match a given pattern
 * `git` to do at least basic things like `add`, `commit`, `status`, and `pull`
 * `brew` to use Homebrew to install packages
